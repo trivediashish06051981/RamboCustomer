@@ -1,0 +1,30 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab2)\InterfaceCustomer\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab2)\InterfaceCustomer\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab2)\InterfaceCustomer\obj\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab2)\InterfaceCustomer\obj\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3)\InterfaceCustomer\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3)\InterfaceCustomer\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3)\InterfaceCustomer\obj\Debug\InterfaceCustomer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3)\InterfaceCustomer\obj\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3)\InterfaceCustomer\obj\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\InterfaceCustomer\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\InterfaceCustomer\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\InterfaceCustomer\obj\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\InterfaceCustomer\obj\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\InterfaceCustomer\obj\Debug\InterfaceCustomer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\InterfaceCustomer\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\InterfaceCustomer\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\InterfaceCustomer\obj\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\InterfaceCustomer\obj\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\InterfaceCustomer\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\InterfaceCustomer\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\InterfaceCustomer\obj\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\InterfaceCustomer\obj\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\InterfaceCustomer\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\InterfaceCustomer\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\InterfaceCustomer\obj\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\InterfaceCustomer\obj\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\InterfaceCustomer\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\InterfaceCustomer\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\InterfaceCustomer\obj\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\InterfaceCustomer\obj\Debug\InterfaceCustomer.pdb

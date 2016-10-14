@@ -1,0 +1,20 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\InterfaceDal\bin\Debug\InterfaceDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\InterfaceDal\bin\Debug\InterfaceDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\InterfaceDal\obj\Debug\InterfaceDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\InterfaceDal\obj\Debug\InterfaceDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\InterfaceDal\bin\Debug\InterfaceDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\InterfaceDal\bin\Debug\InterfaceDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\InterfaceDal\obj\Debug\InterfaceDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\InterfaceDal\obj\Debug\InterfaceDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\InterfaceDal\bin\Debug\InterfaceDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\InterfaceDal\bin\Debug\InterfaceDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\InterfaceDal\obj\Debug\InterfaceDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\InterfaceDal\obj\Debug\InterfaceDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\InterfaceDal\bin\Debug\InterfaceDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\InterfaceDal\bin\Debug\InterfaceDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\InterfaceDal\obj\Debug\InterfaceDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\InterfaceDal\obj\Debug\InterfaceDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\InterfaceDal\bin\Debug\InterfaceDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\InterfaceDal\bin\Debug\InterfaceDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\InterfaceDal\obj\Debug\InterfaceDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\InterfaceDal\obj\Debug\InterfaceDal.pdb
