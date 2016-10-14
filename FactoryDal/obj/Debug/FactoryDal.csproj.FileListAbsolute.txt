@@ -1,0 +1,132 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\obj\Debug\FactoryDal.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\FactoryDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\FactoryDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\AdoDotnetDAL.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\CommonDAL.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\InterfaceDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\FactoryCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\CustomerProjectPhase1.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\AdoDotnetDAL.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\CommonDAL.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\InterfaceDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\FactoryCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\bin\Debug\CustomerProjectPhase1.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\obj\Debug\FactoryDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\FactoryDal\obj\Debug\FactoryDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\obj\Debug\FactoryDal.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\FactoryDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\FactoryDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\AdoDotnetDAL.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\CommonDAL.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\EfDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\InterfaceDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\FactoryCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\CustomerProjectPhase1.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\AdoDotnetDAL.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\CommonDAL.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\EfDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\InterfaceDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\FactoryCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\CustomerProjectPhase1.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\obj\Debug\FactoryDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\obj\Debug\FactoryDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\FactoryDal\bin\Debug\FactoryDal.dll.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\FactoryDal.dll.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\FactoryDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\FactoryDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\AdoDotnetDAL.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\CommonDAL.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\EfDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\InterfaceDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\FactoryCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\CustomerProjectPhase1.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\AdoDotnetDAL.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\CommonDAL.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\EfDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\InterfaceDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\FactoryCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\bin\Debug\CustomerProjectPhase1.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\obj\Debug\FactoryDal.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\obj\Debug\FactoryDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\FactoryDal\obj\Debug\FactoryDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\FactoryDal.dll.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\FactoryDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\FactoryDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\AdoDotnetDAL.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\CommonDAL.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\EfDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\InterfaceDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\FactoryCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\CustomerProjectPhase1.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\AdoDotnetDAL.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\CommonDAL.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\EfDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\InterfaceDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\FactoryCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\bin\Debug\CustomerProjectPhase1.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\obj\Debug\FactoryDal.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\obj\Debug\FactoryDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\FactoryDal\obj\Debug\FactoryDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\FactoryDal.dll.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\FactoryDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\FactoryDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\AdoDotnetDAL.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\CommonDAL.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\EfDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\InterfaceDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\FactoryCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\CustomerProjectPhase1.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\AdoDotnetDAL.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\CommonDAL.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\EfDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\InterfaceDal.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\FactoryCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\bin\Debug\CustomerProjectPhase1.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\obj\Debug\FactoryDal.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\obj\Debug\FactoryDal.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\FactoryDal\obj\Debug\FactoryDal.pdb
