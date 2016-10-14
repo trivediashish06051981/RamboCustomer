@@ -1,0 +1,49 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab2)\ValidationAlgorithms\bin\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab2)\ValidationAlgorithms\bin\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab2)\ValidationAlgorithms\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab2)\ValidationAlgorithms\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab2)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab2)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab2)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3)\ValidationAlgorithms\bin\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3)\ValidationAlgorithms\bin\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3)\ValidationAlgorithms\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3)\ValidationAlgorithms\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\ValidationAlgorithms\bin\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\ValidationAlgorithms\bin\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\ValidationAlgorithms\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\ValidationAlgorithms\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab3) - Copy\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\ValidationAlgorithms\bin\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\ValidationAlgorithms\bin\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\ValidationAlgorithms\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\ValidationAlgorithms\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab4)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\ValidationAlgorithms\bin\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\ValidationAlgorithms\bin\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\ValidationAlgorithms\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\ValidationAlgorithms\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab5)\CustomerProjectPhase1(Lab5)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\ValidationAlgorithms\bin\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\ValidationAlgorithms\bin\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\ValidationAlgorithms\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\ValidationAlgorithms\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab6)\CustomerProjectPhase1(Lab6)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\ValidationAlgorithms\bin\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\ValidationAlgorithms\bin\Debug\ValidationAlgorithms.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\ValidationAlgorithms\bin\Debug\InterfaceCustomer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\ValidationAlgorithms\bin\Debug\InterfaceCustomer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CustomerProjectPhase1(Lab8)\CustomerProjectPhase1(Lab8)\ValidationAlgorithms\obj\Debug\ValidationAlgorithms.pdb
